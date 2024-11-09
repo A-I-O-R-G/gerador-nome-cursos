@@ -1,0 +1,63 @@
+
+```json
+{
+  "Roadmap": {
+    "nome_do_Roadmap": "Roadmap do Projeto - Geração Prática e Intuitiva de Nomes para Cursos",
+    "objetivo": "Desenvolver um script que permite a geração fácil e intuitiva de nomes para cursos, permitindo que os usuários escolham um tema ou forneçam uma descrição detalhada do conteúdo a ser abordado.",
+    "etapas": [
+      {
+        "nome": "Levantamento de Requisitos",
+        "data_inicio": "2024-01-15",
+        "data_fim": "2024-01-20",
+        "responsavel": "Equipe de Análise",
+        "status": "Concluído"
+      },
+      {
+        "nome": "Análise Técnica",
+        "data_inicio": "2024-01-21",
+        "data_fim": "2024-01-24",
+        "responsavel": "Gerente de Projeto",
+        "status": "Concluído"
+      },
+      {
+        "nome": "Desenvolvimento do Script",
+        "data_inicio": "2024-01-25",
+        "data_fim": "2024-02-14",
+        "responsavel": "Equipe de Desenvolvimento",
+        "status": "Em Andamento"
+      },
+      {
+        "nome": "Testes e Validação",
+        "data_inicio": "2024-02-15",
+        "data_fim": "2024-02-21",
+        "responsavel": "Equipe de Testes",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Documentação",
+        "data_inicio": "2024-02-22",
+        "data_fim": "2024-02-24",
+        "responsavel": "Equipe de Documentação",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Entrega do Projeto",
+        "data_inicio": "2024-02-25",
+        "data_fim": "2024-02-25",
+        "responsavel": "Gerente de Projeto",
+        "status": "Pendente"
+      }
+    ],
+    "risks": [
+      "Possíveis dificuldades na geração de sugestões relevantes se as descrições forem inadequadas.",
+      "Desafios na criatividade e originalidade dos nomes gerados, dependendo do algoritmo utilizado.",
+      "Variabilidade nas expectativas dos usuários sobre o que constitui um nome atrativo para um curso."
+    ],
+    "tecnologias": [
+      "Linguagens de programação: Python, JavaScript.",
+      "Bibliotecas: Flask ou Django (para a aplicação web), NLTK ou outras bibliotecas de processamento de linguagem natural (para análise de texto)."
+    ],
+    "publico_alvo": "Educadores, formadores e profissionais que desejam nomear cursos de maneira eficaz, ajudando na divulgação e marketing de suas ofertas educacionais."
+  }
+}
+```
