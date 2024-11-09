@@ -1,0 +1,45 @@
+
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Geração Prática e Intuitiva de Nomes para Cursos",
+    "descricao": "Este projeto visa desenvolver um script que permite a geração fácil e intuitiva de nomes para cursos, permitindo que os usuários escolham um tema ou forneçam uma descrição detalhada do conteúdo a ser abordado.",
+    "objetivos": [
+      "Oferecer ao usuário a opção de selecionar um tema relevante ou inserir uma descrição detalhada do curso.",
+      "Empregar algoritmos para analisar os termos e conceitos apresentados, gerando sugestões de nomes criativos e claros.",
+      "Assegurar que os nomes gerados reflitam o tema, o público-alvo e os objetivos do curso, tornando-os atrativos para os potenciais alunos.",
+      "Criar uma interface simples onde o usuário possa inserir informações e visualizar as sugestões em tempo real."
+    ],
+    "requisitos": {
+      "funcionais": [
+        "O script deve permitir entrada de temas ou descrições e processar essas informações para gerar sugestões de nomes.",
+        "As sugestões geradas devem ser criativas, claras e apropriadas ao conteúdo do curso.",
+        "O usuário deve visualizar as sugestões em tempo real, com possibilidade de interação imediata.",
+        "O sistema deve estar preparado para filtrar ou categorizar sugestões, se necessário."
+      ],
+      "não_funcionais": [
+        "A interface do usuário deve ser intuitiva, proporcionando uma experiência amigável.",
+        "O sistema deve ser responsivo, garantindo a geração rápida de resultados.",
+        "Deve ser compatível com vários dispositivos (desktop, tablet e mobile)."
+      ]
+    },
+    "público_alvo": "Educadores, formadores e profissionais que desejam nomear cursos de maneira eficaz, ajudando na divulgação e marketing de suas ofertas educacionais.",
+    "tecnologias": [
+      "Linguagens de programação: Python, JavaScript.",
+      "Bibliotecas: Flask ou Django (para a aplicação web), NLTK ou outras bibliotecas de processamento de linguagem natural (para análise de texto)."
+    ],
+    "cronograma": "A ser definido pelo Gerente de Projeto após análise deste documento.",
+    "risks": [
+      "Possíveis dificuldades na geração de sugestões relevantes se as descrições forem inadequadas.",
+      "Desafios na criatividade e originalidade dos nomes gerados dependendo do algoritmo utilizado.",
+      "Variabilidade nas expectativas dos usuários sobre o que constitui um nome atrativo para um curso."
+    ]
+  }
+}
+```
+
+```json
+{
+  "name_doc_Pre_Projeto": "Pre-Projeto - Geração Prática e Intuitiva de Nomes para Cursos"
+}
+```
