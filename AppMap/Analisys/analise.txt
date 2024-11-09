@@ -1,0 +1,40 @@
+
+```json
+{
+    "resumo": "O projeto tem como objetivo desenvolver um script intuitivo para a geração de nomes para cursos, permitindo que usuários escolham um tema ou forneçam uma descrição detalhada do conteúdo a ser abordado. O sistema criará sugestões de nomes que reflitam adequadamente o objetivo e o público-alvo do curso.",
+    "requisitos_funcionais": [
+        "O script deve permitir a entrada de temas ou descrições e processar essas informações para gerar sugestões de nomes.",
+        "As sugestões geradas devem ser criativas, claras e apropriadas ao conteúdo do curso.",
+        "O usuário deve visualizar as sugestões em tempo real, com possibilidade de interação imediata.",
+        "O sistema deve estar preparado para filtrar ou categorizar sugestões, se necessário."
+    ],
+    "requisitos_nao_funcionais": [
+        "A interface do usuário deve ser intuitiva, proporcionando uma experiência amigável.",
+        "O sistema deve ser responsivo, garantindo a geração rápida de resultados.",
+        "Deve ser compatível com vários dispositivos (desktop, tablet e mobile)."
+    ],
+    "dependencias": [
+        "A conclusão do levantamento de requisitos e da análise técnica é necessária antes do desenvolvimento do script."
+    ],
+    "marcos": [
+        "Marco 1: Conclusão do Levantamento de Requisitos (2024-01-20)",
+        "Marco 2: Conclusão da Análise Técnica (2024-01-24)",
+        "Marco 3: Início dos Testes e Validação (2024-02-15)",
+        "Marco 4: Entrega do Projeto (2024-02-25)"
+    ],
+    "recursos": [
+        "Equipe de Análise",
+        "Gerente de Projeto",
+        "Equipe de Desenvolvimento",
+        "Equipe de Testes",
+        "Equipe de Documentação",
+        "Linguagens de programação: Python, JavaScript.",
+        "Bibliotecas: Flask ou Django (para a aplicação web), NLTK ou outras bibliotecas para processamento de linguagem natural."
+    ],
+    "riscos": [
+        "Possíveis dificuldades na geração de sugestões relevantes se as descrições forem inadequadas.",
+        "Desafios na criatividade e originalidade dos nomes gerados dependendo do algoritmo utilizado.",
+        "Variabilidade nas expectativas dos usuários sobre o que constitui um nome atrativo para um curso."
+    ]
+}
+```
