@@ -1,0 +1,46 @@
+
+```json
+{
+  "cronograma": {
+    "etapas": [
+      {
+        "nome": "Levantamento de Requisitos",
+        "inicio": "2024-01-15",
+        "fim": "2024-01-20",
+        "responsavel": "Equipe de Análise"
+      },
+      {
+        "nome": "Análise Técnica",
+        "inicio": "2024-01-21",
+        "fim": "2024-01-24",
+        "responsavel": "Gerente de Projeto"
+      },
+      {
+        "nome": "Desenvolvimento do Script",
+        "inicio": "2024-01-25",
+        "fim": "2024-02-14",
+        "responsavel": "Equipe de Desenvolvimento"
+      },
+      {
+        "nome": "Testes e Validação",
+        "inicio": "2024-02-15",
+        "fim": "2024-02-21",
+        "responsavel": "Equipe de Testes"
+      },
+      {
+        "nome": "Documentação",
+        "inicio": "2024-02-22",
+        "fim": "2024-02-24",
+        "responsavel": "Equipe de Documentação"
+      },
+      {
+        "nome": "Entrega do Projeto",
+        "inicio": "2024-02-25",
+        "fim": "2024-02-25",
+        "responsavel": "Gerente de Projeto"
+      }
+    ]
+  },
+  "nome_do_cronograma": "Cronograma do Projeto - Geração Prática e Intuitiva de Nomes para Cursos"
+}
+```
