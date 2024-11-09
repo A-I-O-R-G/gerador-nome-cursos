@@ -1,0 +1,60 @@
+
+```json
+{
+  "planilha": {
+    "titulo": "Planilha do Projeto - Geração Prática e Intuitiva de Nomes para Cursos",
+    "descricao": "Esta planilha contém informações detalhadas sobre as etapas do projeto e seu progresso.",
+    "dados": [
+      {
+        "etapa": "Levantamento de Requisitos",
+        "descricao": "Identificação e coleta de requisitos necessários junto aos stakeholders.",
+        "status": "Concluído",
+        "responsavel": "Equipe de Análise",
+        "data_inicio": "2024-01-15",
+        "data_fim": "2024-01-20"
+      },
+      {
+        "etapa": "Análise Técnica",
+        "descricao": "Análise das tecnologias e metodologias a serem utilizadas no desenvolvimento do script.",
+        "status": "Concluído",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-01-21",
+        "data_fim": "2024-01-24"
+      },
+      {
+        "etapa": "Desenvolvimento do Script",
+        "descricao": "Desenvolvimento do sistema para geração de nomes, incluindo implementação da interface.",
+        "status": "Em Andamento",
+        "responsavel": "Equipe de Desenvolvimento",
+        "data_inicio": "2024-01-25",
+        "data_fim": "2024-02-14"
+      },
+      {
+        "etapa": "Testes e Validação",
+        "descricao": "Testar a funcionalidade do script e a qualidade das sugestões geradas.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Testes",
+        "data_inicio": "2024-02-15",
+        "data_fim": "2024-02-21"
+      },
+      {
+        "etapa": "Documentação",
+        "descricao": "Criação da documentação do projeto, incluindo manuais de uso e relatórios.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Documentação",
+        "data_inicio": "2024-02-22",
+        "data_fim": "2024-02-24"
+      },
+      {
+        "etapa": "Entrega do Projeto",
+        "descricao": "Apresentação final do projeto e entrega dos materiais aos stakeholders.",
+        "status": "Pendente",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-02-25",
+        "data_fim": "2024-02-25"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Geração Prática e Intuitiva de Nomes para Cursos"
+}
+```
